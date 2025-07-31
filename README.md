@@ -2,7 +2,6 @@
 Overview
 
 This is a fun 2-player emoji memory card game built using HTML, CSS, and JavaScript.
-
 👉 Players take turns flipping two cards to find matching emoji pairs.
 👉 The player with the most matches wins! 🎉
 
