@@ -19,12 +19,10 @@ Tech Stack--HTML,CSS,JAVASCRIPT
 
 ⚙️ How to Play
 
-1️⃣ Start the Game – Click the Start button to begin.
-2️⃣ Flip Cards – Players take turns flipping two cards.
-3️⃣ Match Emojis – If emojis match ✅ → player scores a point.
-4️⃣ Switch Turns – If no match ❌ → turn passes to the other player.
-5️⃣ Win the Game – When all cards are matched:
+       Start the Game – Click the Start button to begin.
+       Flip Cards – Players take turns flipping two cards.
+       Match Emojis – If emojis match ✅ → player scores a point.
+       Switch Turns – If no match ❌ → turn passes to the other player.
+       Win the Game – When all cards are matched:
 
-    🏆 Player with most points wins!
-
-    🤝 If scores are tied → It’s a draw!
+  
